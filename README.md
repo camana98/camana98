@@ -1,7 +1,7 @@
-### Hi there! I'm Eduardo Garcia Fensterseifer 😄🖐
+### Hi there! I'm Eduardo Camana 😄🖐
 
-- 🔭 I’m currently working on back-end and front-end
-- 🌱 I’m currently learning PHP, MySQL, JavaScript and Python
+- 🔭 I’m currently working on front-end
+- 🌱 I’m currently learning Swift
  
  <div align="center">
   <a href="https://github.com/camana98">
