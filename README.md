@@ -16,25 +16,42 @@ Desenvolvedor focado em **iOS (Swift / SwiftUI)** e construção de produtos. Cu
 
 ## 📱 Apps on the App Store
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://apps.apple.com/br/app/recorda/id6747271327">
-        <img src="./assets/recorda.png" width="110" alt="Recorda icon" />
-      </a>
-      <h3>Recorda.</h3>
-      <p>Recorde histórias com álbuns.</p>
-      <a href="https://apps.apple.com/br/app/recorda/id6747271327">View on App Store →</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://apps.apple.com/br/app/boraa/id6752790553">
-        <img src="./assets/boraa.png" width="110" alt="Boraa icon" />
-      </a>
-      <h3>Boraa</h3>
-      <p>Descubra rolês e recomendações com amigos.</p>
-      <a href="https://apps.apple.com/br/app/boraa/id6752790553">View on App Store →</a>
-    </td>
-  </tr>
+<table width="100%" cellspacing="0" cellpadding="14">
+<tr>
+<td width="33%" align="center" valign="top">
+  <a href="https://apps.apple.com/br/app/recorda/id6747271327">
+    <img src="./assets/recorda.png" height="110" alt="Recorda icon" />
+  </a>
+  <br /><br />
+  <strong>Recorda.</strong>
+  <br />
+  <sub>Recorde histórias com álbuns.</sub>
+  <br /><br />
+  <a href="https://apps.apple.com/br/app/recorda/id6747271327">View on App Store →</a>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://apps.apple.com/br/app/boraa/id6752790553">
+    <img src="./assets/boraa.png" height="110" alt="Boraa icon" />
+  </a>
+  <br /><br />
+  <strong>Boraa</strong>
+  <br />
+  <sub>Descubra rolês e recomendações com amigos.</sub>
+  <br /><br />
+  <a href="https://apps.apple.com/br/app/boraa/id6752790553">View on App Store →</a>
+</td>
+<td width="33%" align="center" valign="top">
+  <a href="https://apps.apple.com/br/app/glyptis-realidade-esculpida/id6755839447">
+    <img src="./assets/glyptis.png" height="110" alt="Glyptis icon" />
+  </a>
+  <br /><br />
+  <strong>Glyptis</strong>
+  <br />
+  <sub>Realidade esculpida.</sub>
+  <br /><br />
+  <a href="https://apps.apple.com/br/app/glyptis-realidade-esculpida/id6755839447">View on App Store →</a>
+</td>
+</tr>
 </table>
 
 ---
