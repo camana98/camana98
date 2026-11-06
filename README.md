@@ -132,7 +132,7 @@ A collection of apps I've helped design, develop, and ship across the Apple ecos
   <br/><br/>
   <a href="https://apps.apple.com/br/app/somnus/id6749871491">App Store ↗</a>
 </td>
-<td width="33%" align="center" valign="top">
+<!-- <td width="33%" align="center" valign="top">
   <a href="https://apps.apple.com/br/app/cagada-remunerada/id6810780729">
     <img src="./assets/cagada-remunerada.png" height="100" alt="Cagada Remunerada" />
   </a>
@@ -142,7 +142,7 @@ A collection of apps I've helped design, develop, and ship across the Apple ecos
   <sub>A playful offline timer that calculates earnings during work breaks.</sub>
   <br/><br/>
   <a href="https://apps.apple.com/br/app/cagada-remunerada/id6810780729">App Store ↗</a>
-</td>
+</td> -->
 </tr>
 </table>
 
